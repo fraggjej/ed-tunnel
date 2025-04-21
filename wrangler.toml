@@ -14,10 +14,10 @@ custom_domain = true
 pattern = "ava.game.naver.com.indo.upilboyo.my.id" 
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.indo-trojan.upilboyo.my.id" 
+pattern = "104.17.3.81.indo-trojan.upilboyo.my.id" 
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.indo-trojan.upilboyo.my.id"
+pattern = "quiz.vidio.com.upilboyo.my.id"
 custom_domain = true
 
 [vars]
